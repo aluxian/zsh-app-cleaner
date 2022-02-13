@@ -1,3 +1,3 @@
 function AppCleaner {
-  bash ./app-cleaner.sh $1
+  bash ${functions_source[$0]:h}/app-cleaner.sh $1
 }
