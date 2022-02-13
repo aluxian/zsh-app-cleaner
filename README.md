@@ -13,9 +13,9 @@ $ AppCleaner /Applications/AppCleaner.app
 Checking for running processes…
 Finding app data…
 /Applications/AppCleaner.app
-/Users/aluxian/Library/Caches/net.freemacsoft.AppCleaner
-/Users/aluxian/Library/HTTPStorages/net.freemacsoft.AppCleaner
-/Users/aluxian/Library/Preferences/net.freemacsoft.AppCleaner.plist
+/Users/user/Library/Caches/net.freemacsoft.AppCleaner
+/Users/user/Library/HTTPStorages/net.freemacsoft.AppCleaner
+/Users/user/Library/Preferences/net.freemacsoft.AppCleaner.plist
 /var/folders/hz/dszn8gg532bdlnvwklsmy_rh0000gn/C/net.freemacsoft.AppCleaner
 Move app data to trash (y or n)? y
 Moving app data to trash…
