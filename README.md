@@ -8,7 +8,7 @@ ZSH plugin for macOS that's meant to be a FOSS CLI replacement for AppCleaner by
 
 ## Example
 
-```sh
+```console
 $ AppCleaner "/Applications/Day One.app"
 Checking for running processes…
 Saving bill of material logs to desktop…
