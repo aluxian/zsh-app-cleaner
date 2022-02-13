@@ -1,3 +1,3 @@
-function app-cleaner.sh {
+function AppCleaner {
   bash ./app-cleaner.sh $1
 }
