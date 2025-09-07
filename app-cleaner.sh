@@ -54,6 +54,7 @@ if [ ${#paths[@]} -gt 0 ]; then
     mkdir -p "$HOME/Desktop/$app_name"
     lsbom -f -l -s -p f $path > "$HOME/Desktop/$app_name/$(basename $path).log"
   done
+  trash "$HOME/Desktop/$app_name"
 fi
 
 printf "%s\n" "Finding app data…"
